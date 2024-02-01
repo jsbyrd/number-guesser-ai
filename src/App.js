@@ -1,23 +1,17 @@
-import logo from './logo.svg';
+import { useState } from 'react';
+import Canvas from './Canvas';
 import './App.css';
 
 function App() {
+
+  const [lineColor, setLineColor] = useState('#000000');
+  const [lineWidth, setLineWidth] = useState('5');
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Number Guesser</h1>
+      <h2>Instructions: Use canvas, press button, success</h2>
+      <Canvas width="300px" height="200px"/>
     </div>
   );
 }
