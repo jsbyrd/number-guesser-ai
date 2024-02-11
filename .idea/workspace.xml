@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1985854e-2865-4db4-8f35-89f7dfa9af07" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/server/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/model.keras" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nn_model/group1-shard1of1.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nn_model/model.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Canvas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hooks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/icons8-eraser-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/icons8-eraser-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/icons8-pen-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/icons8-pen-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2cBgzMWwwtowdrK6ji7qYtsIJTu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Joshua/Desktop/Projects/number-guesser-ai/server"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1985854e-2865-4db4-8f35-89f7dfa9af07" name="Changes" comment="" />
+      <created>1707590646857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707590646857</updated>
+    </task>
+    <servers />
+  </component>
+</project>

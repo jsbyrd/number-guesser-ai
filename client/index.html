@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Number Predictor</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <div id="app">
+    <div id="instructions">
+      <h1>Number Predictor</h1>
+      <h2>Instructions</h2>
+      <ol>
+        <li>Draw a digit (0-9) inside the box on the left by holding down the left mouse button</li>
+        <li><b><u>Click on the submit button</u></b> to make the prediction!</li>
+      </ol>
+    </div>
+    <div id="main">
+      <div id="grid-container">
+        <div id="grid"></div>
+        <div id="buttons">
+          <button id="clearBtn">Clear Image</button>
+          <button id="submitBtn">Submit</button>
+        </div>
+      </div>
+      <div>
+        <canvas id="myChart"></canvas>
+      </div>
+    </div>
+    <script src="app.js"></script>
+  </div>
+</body>
+</html>
